@@ -27,4 +27,4 @@ Download the "ASCIITetris" folder from this repository and double-click the `run
 
 ## Project Status
 
-The original goal was to recreate the NES/Game Boy Tetris. As the project grew in complexity, it shifted focus to a programming exercise. The core mechanics are solid and the game is functional. I may return later to pursue the original goal.
+The original goal was to recreate the NES/Game Boy using only ASCII characters for graphucs. As the project grew in complexity, it shifted focus to a programming exercise. The core mechanics are solid and the game is functional. I may return later to pursue the original goal.
